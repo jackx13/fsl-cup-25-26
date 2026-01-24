@@ -1,0 +1,1670 @@
+{
+  "groups": {
+    "A": {
+      "pot1": {
+        "rank": 4,
+        "entry_id": 210861,
+        "manager_name": "Valentin Nikolov",
+        "team_name": "ida i eba"
+      },
+      "pot2": {
+        "rank": 12,
+        "entry_id": 9498,
+        "manager_name": "Georgi Totev",
+        "team_name": "Mind the Gakp-o!"
+      },
+      "pot3": {
+        "rank": 17,
+        "entry_id": 9208629,
+        "manager_name": "Krasimir Krastev",
+        "team_name": "LeftRight GoodNight"
+      },
+      "pot4": {
+        "rank": 30,
+        "entry_id": 65615,
+        "manager_name": "Rosen Bogomilov",
+        "team_name": "YNWA Invincibles"
+      }
+    },
+    "B": {
+      "pot1": {
+        "rank": 5,
+        "entry_id": 737756,
+        "manager_name": "Alexander Mirchev",
+        "team_name": "Bezzubi Mendi FC"
+      },
+      "pot2": {
+        "rank": 13,
+        "entry_id": 45462,
+        "manager_name": "Georgi Krastev",
+        "team_name": "Siuuu later"
+      },
+      "pot3": {
+        "rank": 25,
+        "entry_id": 715797,
+        "manager_name": "Angel Ivanov",
+        "team_name": "Acho Stars"
+      },
+      "pot4": {
+        "rank": 31,
+        "entry_id": 5063288,
+        "manager_name": "Zahari Angelov",
+        "team_name": "Full Minus"
+      }
+    },
+    "C": {
+      "pot1": {
+        "rank": 6,
+        "entry_id": 239900,
+        "manager_name": "Михаил Стефанов",
+        "team_name": "M. Stefanov"
+      },
+      "pot2": {
+        "rank": 14,
+        "entry_id": 2817074,
+        "manager_name": "Presiyan Boychev",
+        "team_name": "Любимец 13"
+      },
+      "pot3": {
+        "rank": 23,
+        "entry_id": 1136234,
+        "manager_name": "Hristo Kostov",
+        "team_name": "Rocezz"
+      },
+      "pot4": {
+        "rank": 32,
+        "entry_id": 5642535,
+        "manager_name": "Kristiyan Kovachev",
+        "team_name": "Paranoid"
+      }
+    },
+    "D": {
+      "pot1": {
+        "rank": 3,
+        "entry_id": 151608,
+        "manager_name": "Stanislav Nedyalkov",
+        "team_name": "STNTeam"
+      },
+      "pot2": {
+        "rank": 11,
+        "entry_id": 647988,
+        "manager_name": "Hristo Mihaylov",
+        "team_name": "BestSquad"
+      },
+      "pot3": {
+        "rank": 24,
+        "entry_id": 3320896,
+        "manager_name": "Blagoy Dunchev",
+        "team_name": "The Losers"
+      },
+      "pot4": {
+        "rank": 25,
+        "entry_id": 3493127,
+        "manager_name": "Daniel Binnev",
+        "team_name": "McGinn and Tonic"
+      }
+    },
+    "E": {
+      "pot1": {
+        "rank": 7,
+        "entry_id": 28848,
+        "manager_name": "Nikolay Rachev",
+        "team_name": "ork. Kristali"
+      },
+      "pot2": {
+        "rank": 15,
+        "entry_id": 514361,
+        "manager_name": "Borislav Vasilev",
+        "team_name": "Palavra United"
+      },
+      "pot3": {
+        "rank": 19,
+        "entry_id": 2323135,
+        "manager_name": "Victor Velinov",
+        "team_name": "Velvic"
+      },
+      "pot4": {
+        "rank": 32,
+        "entry_id": 5642535,
+        "manager_name": "Kristiyan Kovachev",
+        "team_name": "Paranoid"
+      }
+    },
+    "F": {
+      "pot1": {
+        "rank": 1,
+        "entry_id": 2209538,
+        "manager_name": "Kliment Stefanov",
+        "team_name": "Druzhba United"
+      },
+      "pot2": {
+        "rank": 10,
+        "entry_id": 20003,
+        "manager_name": "Калоян Дудолов",
+        "team_name": "Nah, I'd win."
+      },
+      "pot3": {
+        "rank": 20,
+        "entry_id": 6204874,
+        "manager_name": "Ivan Ivanov",
+        "team_name": "Megud1"
+      },
+      "pot4": {
+        "rank": 28,
+        "entry_id": 374485,
+        "manager_name": "Ivelin Lungarov",
+        "team_name": "Bears Eat Beets"
+      }
+    },
+    "G": {
+      "pot1": {
+        "rank": 2,
+        "entry_id": 23945,
+        "manager_name": "Georgi Barzakov",
+        "team_name": "MoneyballLFC"
+      },
+      "pot2": {
+        "rank": 9,
+        "entry_id": 12778,
+        "manager_name": "Plamen Petkov",
+        "team_name": "No Luck, Just Genius"
+      },
+      "pot3": {
+        "rank": 21,
+        "entry_id": 22073,
+        "manager_name": "Dimitar Georgiev",
+        "team_name": "GT Stars"
+      },
+      "pot4": {
+        "rank": 27,
+        "entry_id": 2933086,
+        "manager_name": "Alek Dimitrakov",
+        "team_name": "Captain Xhaka"
+      }
+    },
+    "H": {
+      "pot1": {
+        "rank": 8,
+        "entry_id": 2173245,
+        "manager_name": "Ivan Murtov",
+        "team_name": "malkiq"
+      },
+      "pot2": {
+        "rank": 16,
+        "entry_id": 1970078,
+        "manager_name": "Dony Mitev",
+        "team_name": "SiniteLevski"
+      },
+      "pot3": {
+        "rank": 22,
+        "entry_id": 6544511,
+        "manager_name": "Stanislav Sabev",
+        "team_name": "wakanda forever"
+      },
+      "pot4": {
+        "rank": 29,
+        "entry_id": 264569,
+        "manager_name": "Hristo Gatev",
+        "team_name": "No Name"
+      }
+    }
+  },
+  "fixtures": {
+    "A": [
+      {
+        "round": 1,
+        "home": {
+          "rank": 4,
+          "entry_id": 210861,
+          "manager_name": "Valentin Nikolov",
+          "team_name": "ida i eba"
+        },
+        "away": {
+          "rank": 30,
+          "entry_id": 65615,
+          "manager_name": "Rosen Bogomilov",
+          "team_name": "YNWA Invincibles"
+        }
+      },
+      {
+        "round": 1,
+        "home": {
+          "rank": 12,
+          "entry_id": 9498,
+          "manager_name": "Georgi Totev",
+          "team_name": "Mind the Gakp-o!"
+        },
+        "away": {
+          "rank": 17,
+          "entry_id": 9208629,
+          "manager_name": "Krasimir Krastev",
+          "team_name": "LeftRight GoodNight"
+        }
+      },
+      {
+        "round": 2,
+        "home": {
+          "rank": 4,
+          "entry_id": 210861,
+          "manager_name": "Valentin Nikolov",
+          "team_name": "ida i eba"
+        },
+        "away": {
+          "rank": 17,
+          "entry_id": 9208629,
+          "manager_name": "Krasimir Krastev",
+          "team_name": "LeftRight GoodNight"
+        }
+      },
+      {
+        "round": 2,
+        "home": {
+          "rank": 30,
+          "entry_id": 65615,
+          "manager_name": "Rosen Bogomilov",
+          "team_name": "YNWA Invincibles"
+        },
+        "away": {
+          "rank": 12,
+          "entry_id": 9498,
+          "manager_name": "Georgi Totev",
+          "team_name": "Mind the Gakp-o!"
+        }
+      },
+      {
+        "round": 3,
+        "home": {
+          "rank": 4,
+          "entry_id": 210861,
+          "manager_name": "Valentin Nikolov",
+          "team_name": "ida i eba"
+        },
+        "away": {
+          "rank": 12,
+          "entry_id": 9498,
+          "manager_name": "Georgi Totev",
+          "team_name": "Mind the Gakp-o!"
+        }
+      },
+      {
+        "round": 3,
+        "home": {
+          "rank": 17,
+          "entry_id": 9208629,
+          "manager_name": "Krasimir Krastev",
+          "team_name": "LeftRight GoodNight"
+        },
+        "away": {
+          "rank": 30,
+          "entry_id": 65615,
+          "manager_name": "Rosen Bogomilov",
+          "team_name": "YNWA Invincibles"
+        }
+      },
+      {
+        "round": 4,
+        "home": {
+          "rank": 30,
+          "entry_id": 65615,
+          "manager_name": "Rosen Bogomilov",
+          "team_name": "YNWA Invincibles"
+        },
+        "away": {
+          "rank": 4,
+          "entry_id": 210861,
+          "manager_name": "Valentin Nikolov",
+          "team_name": "ida i eba"
+        }
+      },
+      {
+        "round": 4,
+        "home": {
+          "rank": 17,
+          "entry_id": 9208629,
+          "manager_name": "Krasimir Krastev",
+          "team_name": "LeftRight GoodNight"
+        },
+        "away": {
+          "rank": 12,
+          "entry_id": 9498,
+          "manager_name": "Georgi Totev",
+          "team_name": "Mind the Gakp-o!"
+        }
+      },
+      {
+        "round": 5,
+        "home": {
+          "rank": 17,
+          "entry_id": 9208629,
+          "manager_name": "Krasimir Krastev",
+          "team_name": "LeftRight GoodNight"
+        },
+        "away": {
+          "rank": 4,
+          "entry_id": 210861,
+          "manager_name": "Valentin Nikolov",
+          "team_name": "ida i eba"
+        }
+      },
+      {
+        "round": 5,
+        "home": {
+          "rank": 12,
+          "entry_id": 9498,
+          "manager_name": "Georgi Totev",
+          "team_name": "Mind the Gakp-o!"
+        },
+        "away": {
+          "rank": 30,
+          "entry_id": 65615,
+          "manager_name": "Rosen Bogomilov",
+          "team_name": "YNWA Invincibles"
+        }
+      },
+      {
+        "round": 6,
+        "home": {
+          "rank": 12,
+          "entry_id": 9498,
+          "manager_name": "Georgi Totev",
+          "team_name": "Mind the Gakp-o!"
+        },
+        "away": {
+          "rank": 4,
+          "entry_id": 210861,
+          "manager_name": "Valentin Nikolov",
+          "team_name": "ida i eba"
+        }
+      },
+      {
+        "round": 6,
+        "home": {
+          "rank": 30,
+          "entry_id": 65615,
+          "manager_name": "Rosen Bogomilov",
+          "team_name": "YNWA Invincibles"
+        },
+        "away": {
+          "rank": 17,
+          "entry_id": 9208629,
+          "manager_name": "Krasimir Krastev",
+          "team_name": "LeftRight GoodNight"
+        }
+      }
+    ],
+    "B": [
+      {
+        "round": 1,
+        "home": {
+          "rank": 5,
+          "entry_id": 737756,
+          "manager_name": "Alexander Mirchev",
+          "team_name": "Bezzubi Mendi FC"
+        },
+        "away": {
+          "rank": 31,
+          "entry_id": 5063288,
+          "manager_name": "Zahari Angelov",
+          "team_name": "Full Minus"
+        }
+      },
+      {
+        "round": 1,
+        "home": {
+          "rank": 13,
+          "entry_id": 45462,
+          "manager_name": "Georgi Krastev",
+          "team_name": "Siuuu later"
+        },
+        "away": {
+          "rank": 25,
+          "entry_id": 715797,
+          "manager_name": "Angel Ivanov",
+          "team_name": "Acho Stars"
+        }
+      },
+      {
+        "round": 2,
+        "home": {
+          "rank": 5,
+          "entry_id": 737756,
+          "manager_name": "Alexander Mirchev",
+          "team_name": "Bezzubi Mendi FC"
+        },
+        "away": {
+          "rank": 25,
+          "entry_id": 715797,
+          "manager_name": "Angel Ivanov",
+          "team_name": "Acho Stars"
+        }
+      },
+      {
+        "round": 2,
+        "home": {
+          "rank": 31,
+          "entry_id": 5063288,
+          "manager_name": "Zahari Angelov",
+          "team_name": "Full Minus"
+        },
+        "away": {
+          "rank": 13,
+          "entry_id": 45462,
+          "manager_name": "Georgi Krastev",
+          "team_name": "Siuuu later"
+        }
+      },
+      {
+        "round": 3,
+        "home": {
+          "rank": 5,
+          "entry_id": 737756,
+          "manager_name": "Alexander Mirchev",
+          "team_name": "Bezzubi Mendi FC"
+        },
+        "away": {
+          "rank": 13,
+          "entry_id": 45462,
+          "manager_name": "Georgi Krastev",
+          "team_name": "Siuuu later"
+        }
+      },
+      {
+        "round": 3,
+        "home": {
+          "rank": 25,
+          "entry_id": 715797,
+          "manager_name": "Angel Ivanov",
+          "team_name": "Acho Stars"
+        },
+        "away": {
+          "rank": 31,
+          "entry_id": 5063288,
+          "manager_name": "Zahari Angelov",
+          "team_name": "Full Minus"
+        }
+      },
+      {
+        "round": 4,
+        "home": {
+          "rank": 31,
+          "entry_id": 5063288,
+          "manager_name": "Zahari Angelov",
+          "team_name": "Full Minus"
+        },
+        "away": {
+          "rank": 5,
+          "entry_id": 737756,
+          "manager_name": "Alexander Mirchev",
+          "team_name": "Bezzubi Mendi FC"
+        }
+      },
+      {
+        "round": 4,
+        "home": {
+          "rank": 25,
+          "entry_id": 715797,
+          "manager_name": "Angel Ivanov",
+          "team_name": "Acho Stars"
+        },
+        "away": {
+          "rank": 13,
+          "entry_id": 45462,
+          "manager_name": "Georgi Krastev",
+          "team_name": "Siuuu later"
+        }
+      },
+      {
+        "round": 5,
+        "home": {
+          "rank": 25,
+          "entry_id": 715797,
+          "manager_name": "Angel Ivanov",
+          "team_name": "Acho Stars"
+        },
+        "away": {
+          "rank": 5,
+          "entry_id": 737756,
+          "manager_name": "Alexander Mirchev",
+          "team_name": "Bezzubi Mendi FC"
+        }
+      },
+      {
+        "round": 5,
+        "home": {
+          "rank": 13,
+          "entry_id": 45462,
+          "manager_name": "Georgi Krastev",
+          "team_name": "Siuuu later"
+        },
+        "away": {
+          "rank": 31,
+          "entry_id": 5063288,
+          "manager_name": "Zahari Angelov",
+          "team_name": "Full Minus"
+        }
+      },
+      {
+        "round": 6,
+        "home": {
+          "rank": 13,
+          "entry_id": 45462,
+          "manager_name": "Georgi Krastev",
+          "team_name": "Siuuu later"
+        },
+        "away": {
+          "rank": 5,
+          "entry_id": 737756,
+          "manager_name": "Alexander Mirchev",
+          "team_name": "Bezzubi Mendi FC"
+        }
+      },
+      {
+        "round": 6,
+        "home": {
+          "rank": 31,
+          "entry_id": 5063288,
+          "manager_name": "Zahari Angelov",
+          "team_name": "Full Minus"
+        },
+        "away": {
+          "rank": 25,
+          "entry_id": 715797,
+          "manager_name": "Angel Ivanov",
+          "team_name": "Acho Stars"
+        }
+      }
+    ],
+    "C": [
+      {
+        "round": 1,
+        "home": {
+          "rank": 6,
+          "entry_id": 239900,
+          "manager_name": "Михаил Стефанов",
+          "team_name": "M. Stefanov"
+        },
+        "away": {
+          "rank": 32,
+          "entry_id": 5642535,
+          "manager_name": "Kristiyan Kovachev",
+          "team_name": "Paranoid"
+        }
+      },
+      {
+        "round": 1,
+        "home": {
+          "rank": 14,
+          "entry_id": 2817074,
+          "manager_name": "Presiyan Boychev",
+          "team_name": "Любимец 13"
+        },
+        "away": {
+          "rank": 23,
+          "entry_id": 1136234,
+          "manager_name": "Hristo Kostov",
+          "team_name": "Rocezz"
+        }
+      },
+      {
+        "round": 2,
+        "home": {
+          "rank": 6,
+          "entry_id": 239900,
+          "manager_name": "Михаил Стефанов",
+          "team_name": "M. Stefanov"
+        },
+        "away": {
+          "rank": 23,
+          "entry_id": 1136234,
+          "manager_name": "Hristo Kostov",
+          "team_name": "Rocezz"
+        }
+      },
+      {
+        "round": 2,
+        "home": {
+          "rank": 32,
+          "entry_id": 5642535,
+          "manager_name": "Kristiyan Kovachev",
+          "team_name": "Paranoid"
+        },
+        "away": {
+          "rank": 14,
+          "entry_id": 2817074,
+          "manager_name": "Presiyan Boychev",
+          "team_name": "Любимец 13"
+        }
+      },
+      {
+        "round": 3,
+        "home": {
+          "rank": 6,
+          "entry_id": 239900,
+          "manager_name": "Михаил Стефанов",
+          "team_name": "M. Stefanov"
+        },
+        "away": {
+          "rank": 14,
+          "entry_id": 2817074,
+          "manager_name": "Presiyan Boychev",
+          "team_name": "Любимец 13"
+        }
+      },
+      {
+        "round": 3,
+        "home": {
+          "rank": 23,
+          "entry_id": 1136234,
+          "manager_name": "Hristo Kostov",
+          "team_name": "Rocezz"
+        },
+        "away": {
+          "rank": 32,
+          "entry_id": 5642535,
+          "manager_name": "Kristiyan Kovachev",
+          "team_name": "Paranoid"
+        }
+      },
+      {
+        "round": 4,
+        "home": {
+          "rank": 32,
+          "entry_id": 5642535,
+          "manager_name": "Kristiyan Kovachev",
+          "team_name": "Paranoid"
+        },
+        "away": {
+          "rank": 6,
+          "entry_id": 239900,
+          "manager_name": "Михаил Стефанов",
+          "team_name": "M. Stefanov"
+        }
+      },
+      {
+        "round": 4,
+        "home": {
+          "rank": 23,
+          "entry_id": 1136234,
+          "manager_name": "Hristo Kostov",
+          "team_name": "Rocezz"
+        },
+        "away": {
+          "rank": 14,
+          "entry_id": 2817074,
+          "manager_name": "Presiyan Boychev",
+          "team_name": "Любимец 13"
+        }
+      },
+      {
+        "round": 5,
+        "home": {
+          "rank": 23,
+          "entry_id": 1136234,
+          "manager_name": "Hristo Kostov",
+          "team_name": "Rocezz"
+        },
+        "away": {
+          "rank": 6,
+          "entry_id": 239900,
+          "manager_name": "Михаил Стефанов",
+          "team_name": "M. Stefanov"
+        }
+      },
+      {
+        "round": 5,
+        "home": {
+          "rank": 14,
+          "entry_id": 2817074,
+          "manager_name": "Presiyan Boychev",
+          "team_name": "Любимец 13"
+        },
+        "away": {
+          "rank": 32,
+          "entry_id": 5642535,
+          "manager_name": "Kristiyan Kovachev",
+          "team_name": "Paranoid"
+        }
+      },
+      {
+        "round": 6,
+        "home": {
+          "rank": 14,
+          "entry_id": 2817074,
+          "manager_name": "Presiyan Boychev",
+          "team_name": "Любимец 13"
+        },
+        "away": {
+          "rank": 6,
+          "entry_id": 239900,
+          "manager_name": "Михаил Стефанов",
+          "team_name": "M. Stefanov"
+        }
+      },
+      {
+        "round": 6,
+        "home": {
+          "rank": 32,
+          "entry_id": 5642535,
+          "manager_name": "Kristiyan Kovachev",
+          "team_name": "Paranoid"
+        },
+        "away": {
+          "rank": 23,
+          "entry_id": 1136234,
+          "manager_name": "Hristo Kostov",
+          "team_name": "Rocezz"
+        }
+      }
+    ],
+    "D": [
+      {
+        "round": 1,
+        "home": {
+          "rank": 3,
+          "entry_id": 151608,
+          "manager_name": "Stanislav Nedyalkov",
+          "team_name": "STNTeam"
+        },
+        "away": {
+          "rank": 25,
+          "entry_id": 3493127,
+          "manager_name": "Daniel Binnev",
+          "team_name": "McGinn and Tonic"
+        }
+      },
+      {
+        "round": 1,
+        "home": {
+          "rank": 11,
+          "entry_id": 647988,
+          "manager_name": "Hristo Mihaylov",
+          "team_name": "BestSquad"
+        },
+        "away": {
+          "rank": 24,
+          "entry_id": 3320896,
+          "manager_name": "Blagoy Dunchev",
+          "team_name": "The Losers"
+        }
+      },
+      {
+        "round": 2,
+        "home": {
+          "rank": 3,
+          "entry_id": 151608,
+          "manager_name": "Stanislav Nedyalkov",
+          "team_name": "STNTeam"
+        },
+        "away": {
+          "rank": 24,
+          "entry_id": 3320896,
+          "manager_name": "Blagoy Dunchev",
+          "team_name": "The Losers"
+        }
+      },
+      {
+        "round": 2,
+        "home": {
+          "rank": 25,
+          "entry_id": 3493127,
+          "manager_name": "Daniel Binnev",
+          "team_name": "McGinn and Tonic"
+        },
+        "away": {
+          "rank": 11,
+          "entry_id": 647988,
+          "manager_name": "Hristo Mihaylov",
+          "team_name": "BestSquad"
+        }
+      },
+      {
+        "round": 3,
+        "home": {
+          "rank": 3,
+          "entry_id": 151608,
+          "manager_name": "Stanislav Nedyalkov",
+          "team_name": "STNTeam"
+        },
+        "away": {
+          "rank": 11,
+          "entry_id": 647988,
+          "manager_name": "Hristo Mihaylov",
+          "team_name": "BestSquad"
+        }
+      },
+      {
+        "round": 3,
+        "home": {
+          "rank": 24,
+          "entry_id": 3320896,
+          "manager_name": "Blagoy Dunchev",
+          "team_name": "The Losers"
+        },
+        "away": {
+          "rank": 25,
+          "entry_id": 3493127,
+          "manager_name": "Daniel Binnev",
+          "team_name": "McGinn and Tonic"
+        }
+      },
+      {
+        "round": 4,
+        "home": {
+          "rank": 25,
+          "entry_id": 3493127,
+          "manager_name": "Daniel Binnev",
+          "team_name": "McGinn and Tonic"
+        },
+        "away": {
+          "rank": 3,
+          "entry_id": 151608,
+          "manager_name": "Stanislav Nedyalkov",
+          "team_name": "STNTeam"
+        }
+      },
+      {
+        "round": 4,
+        "home": {
+          "rank": 24,
+          "entry_id": 3320896,
+          "manager_name": "Blagoy Dunchev",
+          "team_name": "The Losers"
+        },
+        "away": {
+          "rank": 11,
+          "entry_id": 647988,
+          "manager_name": "Hristo Mihaylov",
+          "team_name": "BestSquad"
+        }
+      },
+      {
+        "round": 5,
+        "home": {
+          "rank": 24,
+          "entry_id": 3320896,
+          "manager_name": "Blagoy Dunchev",
+          "team_name": "The Losers"
+        },
+        "away": {
+          "rank": 3,
+          "entry_id": 151608,
+          "manager_name": "Stanislav Nedyalkov",
+          "team_name": "STNTeam"
+        }
+      },
+      {
+        "round": 5,
+        "home": {
+          "rank": 11,
+          "entry_id": 647988,
+          "manager_name": "Hristo Mihaylov",
+          "team_name": "BestSquad"
+        },
+        "away": {
+          "rank": 25,
+          "entry_id": 3493127,
+          "manager_name": "Daniel Binnev",
+          "team_name": "McGinn and Tonic"
+        }
+      },
+      {
+        "round": 6,
+        "home": {
+          "rank": 11,
+          "entry_id": 647988,
+          "manager_name": "Hristo Mihaylov",
+          "team_name": "BestSquad"
+        },
+        "away": {
+          "rank": 3,
+          "entry_id": 151608,
+          "manager_name": "Stanislav Nedyalkov",
+          "team_name": "STNTeam"
+        }
+      },
+      {
+        "round": 6,
+        "home": {
+          "rank": 25,
+          "entry_id": 3493127,
+          "manager_name": "Daniel Binnev",
+          "team_name": "McGinn and Tonic"
+        },
+        "away": {
+          "rank": 24,
+          "entry_id": 3320896,
+          "manager_name": "Blagoy Dunchev",
+          "team_name": "The Losers"
+        }
+      }
+    ],
+    "E": [
+      {
+        "round": 1,
+        "home": {
+          "rank": 7,
+          "entry_id": 28848,
+          "manager_name": "Nikolay Rachev",
+          "team_name": "ork. Kristali"
+        },
+        "away": {
+          "rank": 32,
+          "entry_id": 5642535,
+          "manager_name": "Kristiyan Kovachev",
+          "team_name": "Paranoid"
+        }
+      },
+      {
+        "round": 1,
+        "home": {
+          "rank": 15,
+          "entry_id": 514361,
+          "manager_name": "Borislav Vasilev",
+          "team_name": "Palavra United"
+        },
+        "away": {
+          "rank": 19,
+          "entry_id": 2323135,
+          "manager_name": "Victor Velinov",
+          "team_name": "Velvic"
+        }
+      },
+      {
+        "round": 2,
+        "home": {
+          "rank": 7,
+          "entry_id": 28848,
+          "manager_name": "Nikolay Rachev",
+          "team_name": "ork. Kristali"
+        },
+        "away": {
+          "rank": 19,
+          "entry_id": 2323135,
+          "manager_name": "Victor Velinov",
+          "team_name": "Velvic"
+        }
+      },
+      {
+        "round": 2,
+        "home": {
+          "rank": 32,
+          "entry_id": 5642535,
+          "manager_name": "Kristiyan Kovachev",
+          "team_name": "Paranoid"
+        },
+        "away": {
+          "rank": 15,
+          "entry_id": 514361,
+          "manager_name": "Borislav Vasilev",
+          "team_name": "Palavra United"
+        }
+      },
+      {
+        "round": 3,
+        "home": {
+          "rank": 7,
+          "entry_id": 28848,
+          "manager_name": "Nikolay Rachev",
+          "team_name": "ork. Kristali"
+        },
+        "away": {
+          "rank": 15,
+          "entry_id": 514361,
+          "manager_name": "Borislav Vasilev",
+          "team_name": "Palavra United"
+        }
+      },
+      {
+        "round": 3,
+        "home": {
+          "rank": 19,
+          "entry_id": 2323135,
+          "manager_name": "Victor Velinov",
+          "team_name": "Velvic"
+        },
+        "away": {
+          "rank": 32,
+          "entry_id": 5642535,
+          "manager_name": "Kristiyan Kovachev",
+          "team_name": "Paranoid"
+        }
+      },
+      {
+        "round": 4,
+        "home": {
+          "rank": 32,
+          "entry_id": 5642535,
+          "manager_name": "Kristiyan Kovachev",
+          "team_name": "Paranoid"
+        },
+        "away": {
+          "rank": 7,
+          "entry_id": 28848,
+          "manager_name": "Nikolay Rachev",
+          "team_name": "ork. Kristali"
+        }
+      },
+      {
+        "round": 4,
+        "home": {
+          "rank": 19,
+          "entry_id": 2323135,
+          "manager_name": "Victor Velinov",
+          "team_name": "Velvic"
+        },
+        "away": {
+          "rank": 15,
+          "entry_id": 514361,
+          "manager_name": "Borislav Vasilev",
+          "team_name": "Palavra United"
+        }
+      },
+      {
+        "round": 5,
+        "home": {
+          "rank": 19,
+          "entry_id": 2323135,
+          "manager_name": "Victor Velinov",
+          "team_name": "Velvic"
+        },
+        "away": {
+          "rank": 7,
+          "entry_id": 28848,
+          "manager_name": "Nikolay Rachev",
+          "team_name": "ork. Kristali"
+        }
+      },
+      {
+        "round": 5,
+        "home": {
+          "rank": 15,
+          "entry_id": 514361,
+          "manager_name": "Borislav Vasilev",
+          "team_name": "Palavra United"
+        },
+        "away": {
+          "rank": 32,
+          "entry_id": 5642535,
+          "manager_name": "Kristiyan Kovachev",
+          "team_name": "Paranoid"
+        }
+      },
+      {
+        "round": 6,
+        "home": {
+          "rank": 15,
+          "entry_id": 514361,
+          "manager_name": "Borislav Vasilev",
+          "team_name": "Palavra United"
+        },
+        "away": {
+          "rank": 7,
+          "entry_id": 28848,
+          "manager_name": "Nikolay Rachev",
+          "team_name": "ork. Kristali"
+        }
+      },
+      {
+        "round": 6,
+        "home": {
+          "rank": 32,
+          "entry_id": 5642535,
+          "manager_name": "Kristiyan Kovachev",
+          "team_name": "Paranoid"
+        },
+        "away": {
+          "rank": 19,
+          "entry_id": 2323135,
+          "manager_name": "Victor Velinov",
+          "team_name": "Velvic"
+        }
+      }
+    ],
+    "F": [
+      {
+        "round": 1,
+        "home": {
+          "rank": 1,
+          "entry_id": 2209538,
+          "manager_name": "Kliment Stefanov",
+          "team_name": "Druzhba United"
+        },
+        "away": {
+          "rank": 28,
+          "entry_id": 374485,
+          "manager_name": "Ivelin Lungarov",
+          "team_name": "Bears Eat Beets"
+        }
+      },
+      {
+        "round": 1,
+        "home": {
+          "rank": 10,
+          "entry_id": 20003,
+          "manager_name": "Калоян Дудолов",
+          "team_name": "Nah, I'd win."
+        },
+        "away": {
+          "rank": 20,
+          "entry_id": 6204874,
+          "manager_name": "Ivan Ivanov",
+          "team_name": "Megud1"
+        }
+      },
+      {
+        "round": 2,
+        "home": {
+          "rank": 1,
+          "entry_id": 2209538,
+          "manager_name": "Kliment Stefanov",
+          "team_name": "Druzhba United"
+        },
+        "away": {
+          "rank": 20,
+          "entry_id": 6204874,
+          "manager_name": "Ivan Ivanov",
+          "team_name": "Megud1"
+        }
+      },
+      {
+        "round": 2,
+        "home": {
+          "rank": 28,
+          "entry_id": 374485,
+          "manager_name": "Ivelin Lungarov",
+          "team_name": "Bears Eat Beets"
+        },
+        "away": {
+          "rank": 10,
+          "entry_id": 20003,
+          "manager_name": "Калоян Дудолов",
+          "team_name": "Nah, I'd win."
+        }
+      },
+      {
+        "round": 3,
+        "home": {
+          "rank": 1,
+          "entry_id": 2209538,
+          "manager_name": "Kliment Stefanov",
+          "team_name": "Druzhba United"
+        },
+        "away": {
+          "rank": 10,
+          "entry_id": 20003,
+          "manager_name": "Калоян Дудолов",
+          "team_name": "Nah, I'd win."
+        }
+      },
+      {
+        "round": 3,
+        "home": {
+          "rank": 20,
+          "entry_id": 6204874,
+          "manager_name": "Ivan Ivanov",
+          "team_name": "Megud1"
+        },
+        "away": {
+          "rank": 28,
+          "entry_id": 374485,
+          "manager_name": "Ivelin Lungarov",
+          "team_name": "Bears Eat Beets"
+        }
+      },
+      {
+        "round": 4,
+        "home": {
+          "rank": 28,
+          "entry_id": 374485,
+          "manager_name": "Ivelin Lungarov",
+          "team_name": "Bears Eat Beets"
+        },
+        "away": {
+          "rank": 1,
+          "entry_id": 2209538,
+          "manager_name": "Kliment Stefanov",
+          "team_name": "Druzhba United"
+        }
+      },
+      {
+        "round": 4,
+        "home": {
+          "rank": 20,
+          "entry_id": 6204874,
+          "manager_name": "Ivan Ivanov",
+          "team_name": "Megud1"
+        },
+        "away": {
+          "rank": 10,
+          "entry_id": 20003,
+          "manager_name": "Калоян Дудолов",
+          "team_name": "Nah, I'd win."
+        }
+      },
+      {
+        "round": 5,
+        "home": {
+          "rank": 20,
+          "entry_id": 6204874,
+          "manager_name": "Ivan Ivanov",
+          "team_name": "Megud1"
+        },
+        "away": {
+          "rank": 1,
+          "entry_id": 2209538,
+          "manager_name": "Kliment Stefanov",
+          "team_name": "Druzhba United"
+        }
+      },
+      {
+        "round": 5,
+        "home": {
+          "rank": 10,
+          "entry_id": 20003,
+          "manager_name": "Калоян Дудолов",
+          "team_name": "Nah, I'd win."
+        },
+        "away": {
+          "rank": 28,
+          "entry_id": 374485,
+          "manager_name": "Ivelin Lungarov",
+          "team_name": "Bears Eat Beets"
+        }
+      },
+      {
+        "round": 6,
+        "home": {
+          "rank": 10,
+          "entry_id": 20003,
+          "manager_name": "Калоян Дудолов",
+          "team_name": "Nah, I'd win."
+        },
+        "away": {
+          "rank": 1,
+          "entry_id": 2209538,
+          "manager_name": "Kliment Stefanov",
+          "team_name": "Druzhba United"
+        }
+      },
+      {
+        "round": 6,
+        "home": {
+          "rank": 28,
+          "entry_id": 374485,
+          "manager_name": "Ivelin Lungarov",
+          "team_name": "Bears Eat Beets"
+        },
+        "away": {
+          "rank": 20,
+          "entry_id": 6204874,
+          "manager_name": "Ivan Ivanov",
+          "team_name": "Megud1"
+        }
+      }
+    ],
+    "G": [
+      {
+        "round": 1,
+        "home": {
+          "rank": 2,
+          "entry_id": 23945,
+          "manager_name": "Georgi Barzakov",
+          "team_name": "MoneyballLFC"
+        },
+        "away": {
+          "rank": 27,
+          "entry_id": 2933086,
+          "manager_name": "Alek Dimitrakov",
+          "team_name": "Captain Xhaka"
+        }
+      },
+      {
+        "round": 1,
+        "home": {
+          "rank": 9,
+          "entry_id": 12778,
+          "manager_name": "Plamen Petkov",
+          "team_name": "No Luck, Just Genius"
+        },
+        "away": {
+          "rank": 21,
+          "entry_id": 22073,
+          "manager_name": "Dimitar Georgiev",
+          "team_name": "GT Stars"
+        }
+      },
+      {
+        "round": 2,
+        "home": {
+          "rank": 2,
+          "entry_id": 23945,
+          "manager_name": "Georgi Barzakov",
+          "team_name": "MoneyballLFC"
+        },
+        "away": {
+          "rank": 21,
+          "entry_id": 22073,
+          "manager_name": "Dimitar Georgiev",
+          "team_name": "GT Stars"
+        }
+      },
+      {
+        "round": 2,
+        "home": {
+          "rank": 27,
+          "entry_id": 2933086,
+          "manager_name": "Alek Dimitrakov",
+          "team_name": "Captain Xhaka"
+        },
+        "away": {
+          "rank": 9,
+          "entry_id": 12778,
+          "manager_name": "Plamen Petkov",
+          "team_name": "No Luck, Just Genius"
+        }
+      },
+      {
+        "round": 3,
+        "home": {
+          "rank": 2,
+          "entry_id": 23945,
+          "manager_name": "Georgi Barzakov",
+          "team_name": "MoneyballLFC"
+        },
+        "away": {
+          "rank": 9,
+          "entry_id": 12778,
+          "manager_name": "Plamen Petkov",
+          "team_name": "No Luck, Just Genius"
+        }
+      },
+      {
+        "round": 3,
+        "home": {
+          "rank": 21,
+          "entry_id": 22073,
+          "manager_name": "Dimitar Georgiev",
+          "team_name": "GT Stars"
+        },
+        "away": {
+          "rank": 27,
+          "entry_id": 2933086,
+          "manager_name": "Alek Dimitrakov",
+          "team_name": "Captain Xhaka"
+        }
+      },
+      {
+        "round": 4,
+        "home": {
+          "rank": 27,
+          "entry_id": 2933086,
+          "manager_name": "Alek Dimitrakov",
+          "team_name": "Captain Xhaka"
+        },
+        "away": {
+          "rank": 2,
+          "entry_id": 23945,
+          "manager_name": "Georgi Barzakov",
+          "team_name": "MoneyballLFC"
+        }
+      },
+      {
+        "round": 4,
+        "home": {
+          "rank": 21,
+          "entry_id": 22073,
+          "manager_name": "Dimitar Georgiev",
+          "team_name": "GT Stars"
+        },
+        "away": {
+          "rank": 9,
+          "entry_id": 12778,
+          "manager_name": "Plamen Petkov",
+          "team_name": "No Luck, Just Genius"
+        }
+      },
+      {
+        "round": 5,
+        "home": {
+          "rank": 21,
+          "entry_id": 22073,
+          "manager_name": "Dimitar Georgiev",
+          "team_name": "GT Stars"
+        },
+        "away": {
+          "rank": 2,
+          "entry_id": 23945,
+          "manager_name": "Georgi Barzakov",
+          "team_name": "MoneyballLFC"
+        }
+      },
+      {
+        "round": 5,
+        "home": {
+          "rank": 9,
+          "entry_id": 12778,
+          "manager_name": "Plamen Petkov",
+          "team_name": "No Luck, Just Genius"
+        },
+        "away": {
+          "rank": 27,
+          "entry_id": 2933086,
+          "manager_name": "Alek Dimitrakov",
+          "team_name": "Captain Xhaka"
+        }
+      },
+      {
+        "round": 6,
+        "home": {
+          "rank": 9,
+          "entry_id": 12778,
+          "manager_name": "Plamen Petkov",
+          "team_name": "No Luck, Just Genius"
+        },
+        "away": {
+          "rank": 2,
+          "entry_id": 23945,
+          "manager_name": "Georgi Barzakov",
+          "team_name": "MoneyballLFC"
+        }
+      },
+      {
+        "round": 6,
+        "home": {
+          "rank": 27,
+          "entry_id": 2933086,
+          "manager_name": "Alek Dimitrakov",
+          "team_name": "Captain Xhaka"
+        },
+        "away": {
+          "rank": 21,
+          "entry_id": 22073,
+          "manager_name": "Dimitar Georgiev",
+          "team_name": "GT Stars"
+        }
+      }
+    ],
+    "H": [
+      {
+        "round": 1,
+        "home": {
+          "rank": 8,
+          "entry_id": 2173245,
+          "manager_name": "Ivan Murtov",
+          "team_name": "malkiq"
+        },
+        "away": {
+          "rank": 29,
+          "entry_id": 264569,
+          "manager_name": "Hristo Gatev",
+          "team_name": "No Name"
+        }
+      },
+      {
+        "round": 1,
+        "home": {
+          "rank": 16,
+          "entry_id": 1970078,
+          "manager_name": "Dony Mitev",
+          "team_name": "SiniteLevski"
+        },
+        "away": {
+          "rank": 22,
+          "entry_id": 6544511,
+          "manager_name": "Stanislav Sabev",
+          "team_name": "wakanda forever"
+        }
+      },
+      {
+        "round": 2,
+        "home": {
+          "rank": 8,
+          "entry_id": 2173245,
+          "manager_name": "Ivan Murtov",
+          "team_name": "malkiq"
+        },
+        "away": {
+          "rank": 22,
+          "entry_id": 6544511,
+          "manager_name": "Stanislav Sabev",
+          "team_name": "wakanda forever"
+        }
+      },
+      {
+        "round": 2,
+        "home": {
+          "rank": 29,
+          "entry_id": 264569,
+          "manager_name": "Hristo Gatev",
+          "team_name": "No Name"
+        },
+        "away": {
+          "rank": 16,
+          "entry_id": 1970078,
+          "manager_name": "Dony Mitev",
+          "team_name": "SiniteLevski"
+        }
+      },
+      {
+        "round": 3,
+        "home": {
+          "rank": 8,
+          "entry_id": 2173245,
+          "manager_name": "Ivan Murtov",
+          "team_name": "malkiq"
+        },
+        "away": {
+          "rank": 16,
+          "entry_id": 1970078,
+          "manager_name": "Dony Mitev",
+          "team_name": "SiniteLevski"
+        }
+      },
+      {
+        "round": 3,
+        "home": {
+          "rank": 22,
+          "entry_id": 6544511,
+          "manager_name": "Stanislav Sabev",
+          "team_name": "wakanda forever"
+        },
+        "away": {
+          "rank": 29,
+          "entry_id": 264569,
+          "manager_name": "Hristo Gatev",
+          "team_name": "No Name"
+        }
+      },
+      {
+        "round": 4,
+        "home": {
+          "rank": 29,
+          "entry_id": 264569,
+          "manager_name": "Hristo Gatev",
+          "team_name": "No Name"
+        },
+        "away": {
+          "rank": 8,
+          "entry_id": 2173245,
+          "manager_name": "Ivan Murtov",
+          "team_name": "malkiq"
+        }
+      },
+      {
+        "round": 4,
+        "home": {
+          "rank": 22,
+          "entry_id": 6544511,
+          "manager_name": "Stanislav Sabev",
+          "team_name": "wakanda forever"
+        },
+        "away": {
+          "rank": 16,
+          "entry_id": 1970078,
+          "manager_name": "Dony Mitev",
+          "team_name": "SiniteLevski"
+        }
+      },
+      {
+        "round": 5,
+        "home": {
+          "rank": 22,
+          "entry_id": 6544511,
+          "manager_name": "Stanislav Sabev",
+          "team_name": "wakanda forever"
+        },
+        "away": {
+          "rank": 8,
+          "entry_id": 2173245,
+          "manager_name": "Ivan Murtov",
+          "team_name": "malkiq"
+        }
+      },
+      {
+        "round": 5,
+        "home": {
+          "rank": 16,
+          "entry_id": 1970078,
+          "manager_name": "Dony Mitev",
+          "team_name": "SiniteLevski"
+        },
+        "away": {
+          "rank": 29,
+          "entry_id": 264569,
+          "manager_name": "Hristo Gatev",
+          "team_name": "No Name"
+        }
+      },
+      {
+        "round": 6,
+        "home": {
+          "rank": 16,
+          "entry_id": 1970078,
+          "manager_name": "Dony Mitev",
+          "team_name": "SiniteLevski"
+        },
+        "away": {
+          "rank": 8,
+          "entry_id": 2173245,
+          "manager_name": "Ivan Murtov",
+          "team_name": "malkiq"
+        }
+      },
+      {
+        "round": 6,
+        "home": {
+          "rank": 29,
+          "entry_id": 264569,
+          "manager_name": "Hristo Gatev",
+          "team_name": "No Name"
+        },
+        "away": {
+          "rank": 22,
+          "entry_id": 6544511,
+          "manager_name": "Stanislav Sabev",
+          "team_name": "wakanda forever"
+        }
+      }
+    ]
+  }
+}
