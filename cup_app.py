@@ -504,23 +504,13 @@ def main():
 
     st.title("🏆 Купата — FPL Cup Draw")
 
-    st.sidebar.header("Настройки")
+        st.sidebar.header("Настройки")
     league_id = st.sidebar.number_input(
         "League ID",
         min_value=1,
         value=DEFAULT_LEAGUE_ID,
         step=1,
     )
-    
-        # --- Load locked draw (must happen AFTER league_id exists) ---
-    file_groups, file_fixtures = load_draw_from_file()
-
-    if file_groups:
-        st.session_state["groups"] = file_groups
-        st.session_state["fixtures"] = file_fixtures or build_all_fixtures(file_groups)
-        st.session_state["draw_locked"] = True
-    else:
-        st.session_state.setdefault("draw_locked", False)
 
     radostin_entry_id = st.sidebar.number_input(
         "Radostin (excluded) entry ID",
@@ -546,38 +536,51 @@ def main():
         step=1,
     )
 
-    
+    # --- Load locked draw (production mode) ---
+    st.session_state.setdefault("groups", None)
+    st.session_state.setdefault("fixtures", None)
+    st.session_state.setdefault("draw_locked", False)
+
+    file_groups, file_fixtures = load_draw_from_file()
+
+    if file_groups:
+        st.session_state["groups"] = file_groups
+        st.session_state["fixtures"] = file_fixtures or build_all_fixtures(file_groups)
+        st.session_state["draw_locked"] = True
 
     if kristiyan_entry_id <= 0:
         st.error("Please enter a valid entry ID for Kristiyan Kovachev.")
         return
 
-    # Fetch standings
-    with st.spinner("Fetching league standings from FPL..."):
-        try:
-            standings = get_league_standings(int(league_id))
-        except Exception as e:
-            st.error(f"Error fetching standings: {e}")
+    # --- Only fetch standings in setup mode (when NOT locked) ---
+    standings = None
+    if not st.session_state["draw_locked"]:
+        with st.spinner("Fetching league standings from FPL..."):
+            try:
+                standings = get_league_standings(int(league_id))
+            except Exception as e:
+                st.error(f"Error fetching standings: {e}")
+                return
+
+        if len(standings) < 32:
+            st.error(f"League has only {len(standings)} teams; need at least 32 for the Cup.")
             return
 
-    if len(standings) < 32:
-        st.error(f"League has only {len(standings)} teams; need at least 32 for the Cup.")
-        return
-
-    # Show a preview of top 32
-    st.subheader("Лига — Top 32 (before Cup rules)")
-    st.dataframe(
-        [
-            {
-                "Rank": p["rank"],
-                "Entry ID": p["entry_id"],
-                "Manager": p["manager_name"],
-                "Team": p["team_name"],
-            }
-            for p in standings[:32]
-        ],
-        use_container_width=True,
-    )
+        st.subheader("Лига — Top 32 (before Cup rules)")
+        st.dataframe(
+            [
+                {
+                    "Rank": p["rank"],
+                    "Entry ID": p["entry_id"],
+                    "Manager": p["manager_name"],
+                    "Team": p["team_name"],
+                }
+                for p in standings[:32]
+            ],
+            use_container_width=True,
+        )
+    else:
+        st.sidebar.success("🔒 Cup draw is locked (using saved JSON).")
 
     # Build pots
     try:
