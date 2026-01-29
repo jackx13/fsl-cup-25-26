@@ -583,14 +583,18 @@ def main():
         st.sidebar.success("🔒 Cup draw is locked (using saved JSON).")
 
     # Build pots
-    try:
-        pot1, pot2, pot3, pot4 = build_pots(
-            standings=standings,
-            radostin_id=int(radostin_entry_id),
-            kristiyan_id=int(kristiyan_entry_id),
-        )
-    except Exception as e:
-        st.error(f"Error building pots: {e}")
+    pot1 = pot2 = pot3 = pot4 = None
+
+    if not st.session_state.get("draw_locked", False):
+        try:
+            pot1, pot2, pot3, pot4 = build_pots(
+                standings=standings,
+                radostin_id=int(radostin_entry_id),
+                kristiyan_id=int(kristiyan_entry_id),
+            )
+        except Exception as e:
+            st.error(f"Error building pots: {e}")
+            st.stop()
         return        
     tab_draw, tab_fix, tab_results, tab_table = st.tabs(["🎲 Draw", "🗓 Fixtures", "📈 Results", "📊 Standings"])
         # Initialize session state keys
