@@ -181,7 +181,17 @@ def build_pots(
             "manager_name": p["manager_name"],
             "team_name": p["team_name"],
         }
-
+    if not st.session_state.get("draw_locked", False):
+        # Fetch standings + build pots only in setup mode
+        standings = get_league_standings(int(league_id))
+        pot1, pot2, pot3, pot4 = build_pots(
+            standings=standings,
+            radostin_id=int(radostin_entry_id),
+            kristiyan_id=int(kristiyan_entry_id),
+        )
+    else:
+        # In locked mode, you don't need standings/pots at all
+        pot1 = pot2 = pot3 = pot4 = None    
     # Positions are 0-based:
     # placed 1–8   => [0:8]
     # placed 9–16  => [8:16]
