@@ -20,7 +20,7 @@ CUP_ROUND_TO_GW = {rnd: CUP_GROUP_START_GW + (rnd - 1) for rnd in range(1, CUP_G
 
 # ---------- FPL helpers ----------
 
-DRAW_FILE = "cup_draw_league2448_gw22_groups.json"
+DRAW_FILE = os.path.join(os.path.dirname(__file__), "cup_draw_league2448_gw22_groups.json")
 
 def save_draw_to_file(groups: dict, fixtures: dict | None = None):
     payload = {
@@ -579,20 +579,14 @@ def main():
     st.session_state.setdefault("groups", None)
     st.session_state.setdefault("fixtures", None)
     st.session_state.setdefault("draw_locked", False)
-    # Auto-load locked draw from disk if present
+    # Always try to load locked draw first
     file_groups, file_fixtures = load_draw_from_file()
     if file_groups:
-        # Lock groups
         st.session_state["groups"] = file_groups
+        st.session_state["fixtures"] = file_fixtures or build_all_fixtures(file_groups)
         st.session_state["draw_locked"] = True
-
-        # Lock fixtures (load if present, otherwise generate once and persist)
-        if file_fixtures:
-            st.session_state["fixtures"] = file_fixtures
-        else:
-            locked_fixtures = build_all_fixtures(file_groups)
-            st.session_state["fixtures"] = locked_fixtures
-            save_draw_to_file(file_groups, locked_fixtures)
+    else:
+        st.session_state.setdefault("draw_locked", False)
     with tab_draw:
         st.subheader("🎲 Draw (Locked)")
 
