@@ -181,17 +181,19 @@ def build_pots(
             "manager_name": p["manager_name"],
             "team_name": p["team_name"],
         }
+    pot1 = pot2 = pot3 = pot4 = None
+
     if not st.session_state.get("draw_locked", False):
-        # Fetch standings + build pots only in setup mode
-        standings = get_league_standings(int(league_id))
-        pot1, pot2, pot3, pot4 = build_pots(
-            standings=standings,
-            radostin_id=int(radostin_entry_id),
-            kristiyan_id=int(kristiyan_entry_id),
-        )
-    else:
-        # In locked mode, you don't need standings/pots at all
-        pot1 = pot2 = pot3 = pot4 = None    
+        try:
+            standings = get_league_standings(int(league_id))
+            pot1, pot2, pot3, pot4 = build_pots(
+                standings=standings,
+                radostin_id=int(radostin_entry_id),
+                kristiyan_id=int(kristiyan_entry_id),
+            )
+        except Exception as e:
+            st.error(f"Error building pots: {e}")
+            st.stop()  
     # Positions are 0-based:
     # placed 1–8   => [0:8]
     # placed 9–16  => [8:16]
@@ -509,6 +511,16 @@ def main():
         value=DEFAULT_LEAGUE_ID,
         step=1,
     )
+    
+        # --- Load locked draw (must happen AFTER league_id exists) ---
+    file_groups, file_fixtures = load_draw_from_file()
+
+    if file_groups:
+        st.session_state["groups"] = file_groups
+        st.session_state["fixtures"] = file_fixtures or build_all_fixtures(file_groups)
+        st.session_state["draw_locked"] = True
+    else:
+        st.session_state.setdefault("draw_locked", False)
 
     radostin_entry_id = st.sidebar.number_input(
         "Radostin (excluded) entry ID",
